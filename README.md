@@ -1,6 +1,6 @@
 # 🚀 LEAN REST API - NodeJS, MongoDB, Fastify & Swagger
 
-The Fastify web framework is highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and currently the fastest web frameworks. The following technologies and tools are used in this exercise.
+The Fastify web framework is highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and currently the fastest web frameworks. The following technologies and toolsare used in this exercise.
 
 ## nodemon
 
@@ -22,11 +22,23 @@ Mongoose provides a straight-forward, schema-based solution to model your applic
 Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and as far as we know, it is one of the fastest web frameworks in town.
 fastify-swagger
 
-## Swagger documentation generator for Fastify. 
-
-It uses the schemas you declare in your routes to generate a swagger compliant doc.
+## Swagger documentation generator for Fastify. It uses the schemas you declare in your routes to generate a swagger compliant doc.
 
 
 ## boom
 
 boom provides a set of utilities for returning HTTP errors.
+
+
+## Running the API
+
+Run the following code in your src directory in your terminal:
+
+``` 
+
+npm start
+
+
+```
+
+Then navigate to http://localhost:3000/ you should see the {hello:Luca} object returned.
