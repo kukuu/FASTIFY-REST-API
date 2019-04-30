@@ -1,6 +1,6 @@
 # 🚀 LEAN REST API - NodeJS, MongoDB, Fastify & Swagger
 
-The Fastify web framework is highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and currently the fastest web frameworks. The following technologies and toolsare used in this exercise.
+The Fastify web framework is highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and currently the fastest web frameworks. The following technologies and tools are used in this exercise.
 
 ## nodemon
 
