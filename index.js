@@ -8,7 +8,7 @@ const mongoose = require('mongoose')
 
 // Declare a route
 fastify.get('/', async (request, reply) => {
-  return { hello: 'Luca' }
+  return { hello: 'Kwasi brown !' }
 })
 
 // Connect to DB
