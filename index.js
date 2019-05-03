@@ -20,7 +20,7 @@ mongoose.connect(‘mongodb://localhost/mycargarage’)
 // Run the server!
 const start = async () => {
   try {
-    await fastify.listen(3000)
+    await fastify.listen(3030)
     fastify.log.info(`server listening on ${fastify.server.address().port}`)
   } catch (err) {
     fastify.log.error(err)
