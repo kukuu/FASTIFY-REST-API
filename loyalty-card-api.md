@@ -1,6 +1,6 @@
 
 # Integration Loyalty Service & Payment Card API
-## Author : Alexander Adu-SAarkodie
+## Author :  Alexander Adu-SAarkodie
 
 ```
 
@@ -261,5 +261,15 @@ Ressponse
   "created_at":"2016-11-17T15:23:15Z",
   "object":"customer"
 }
+
+
+5. Delete
+
+
+curl -X DELETE \
+  -H "X-App-Id: c70a6f00-cf91-4756-9df5-47628850002b" \
+  -H "X-App-Token: 3266b9f8-e246-4f79-bdf0-833929b1380c" \
+  -H "Content-Type: application/json" \
+  https://api.voucherify.io/v1/customers/cust_TYevabacpji5rLrw7mYJLx0x
 
 ```
