@@ -1,5 +1,5 @@
 
-# Integration Loyalty Service & Payment
+# Integration Loyalty Service & Payment Card API
 ## Author : Alexander Adu-SAarkodie
 
 ```
