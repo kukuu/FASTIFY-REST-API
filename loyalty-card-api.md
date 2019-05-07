@@ -1,6 +1,6 @@
 
 # Integration Loyalty Service & Payment
-## Author - Alexander Adu-SAarkodie
+## Author : Alexander Adu-SAarkodie
 
 ```
 
