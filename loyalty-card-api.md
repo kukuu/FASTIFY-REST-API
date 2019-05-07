@@ -1,6 +1,6 @@
 
 # Integration Loyalty Service & Payment Card API
-## Author :  Alexander Adu-SAarkodie
+## Author :  Alexander Adu-Sarkodie
 
 ```
 
@@ -101,7 +101,7 @@ Example response
     "data_ref": "entries",
     "entries": [],
     "total": 0,
-    "url": "/v1/xxxxx/Testing7fjWdr/publications?page=1&limit=10"
+    "url": "/v1/xxxxx.io/Testing7fjWdr/publications?page=1&limit=10"
   },
   "redemption": {
     "object": "list",
@@ -212,7 +212,7 @@ curl -X GET \
   -H "X-App-Id: c70a6f00-cf91-4756-9df5-47628850002b" \
   -H "X-App-Token: 3266b9f8-e246-4f79-bdf0-833929b1380c" \
   -H "Content-Type: application/json" \
-  https://api.voucherify.io/v1/customers/cust_lYv4yFtT7SGzx81oYpzCntIi
+  https://api.xxxxxxx.io/v1/customers/cust_lYv4yFtT7SGzx81oYpzCntIi
 
 Ressponse
 
@@ -270,6 +270,6 @@ curl -X DELETE \
   -H "X-App-Id: c70a6f00-cf91-4756-9df5-47628850002b" \
   -H "X-App-Token: 3266b9f8-e246-4f79-bdf0-833929b1380c" \
   -H "Content-Type: application/json" \
-  https://api.voucherify.io/v1/customers/cust_TYevabacpji5rLrw7mYJLx0x
+  https://api.xxxxxx.io/v1/customers/cust_ghghjkurr
 
 ```
